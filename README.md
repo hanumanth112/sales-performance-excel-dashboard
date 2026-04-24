@@ -13,8 +13,9 @@ The objective is to transform raw data into **actionable insights** that help un
 
 ---
 
-## 📸 <img width="1665" height="886" alt="image" src="https://github.com/user-attachments/assets/6b2b3e05-d0d5-4541-94f4-5088552fe258" />
+## 📸 Dashboard Preview
 
+<img width="1665" height="886" alt="image" src="https://github.com/user-attachments/assets/6b2b3e05-d0d5-4541-94f4-5088552fe258" />
 
 <p align="center">
   <img src="images/dashboard.png" alt="Sales Dashboard" width="900"/>
