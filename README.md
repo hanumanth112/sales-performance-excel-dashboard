@@ -4,18 +4,27 @@
 
 This project analyzes **sales, customer, and product data** using Microsoft Excel to generate meaningful business insights through an interactive dashboard.
 
-The objective is to convert raw data into **actionable insights** that help understand:
+The objective is to transform raw data into **actionable insights** that help understand:
 
 * Sales performance trends
 * Product contribution
-* Customer segments
+* Customer behavior
 * Shipping efficiency
+
+---
+
+## 📸 <img width="1665" height="886" alt="image" src="https://github.com/user-attachments/assets/6b2b3e05-d0d5-4541-94f4-5088552fe258" />
+
+
+<p align="center">
+  <img src="images/dashboard.png" alt="Sales Dashboard" width="900"/>
+</p>
 
 ---
 
 ## 🗂️ Dataset Description
 
-The dataset includes three key areas:
+The dataset is structured into three key components:
 
 ### 🔹 Sales Data
 
@@ -64,7 +73,7 @@ The dataset includes three key areas:
 ### 🔹 Sales Trend Analysis
 
 * Line chart showing sales over time
-* Comparison across categories:
+* Category-wise comparison:
 
   * Furniture
   * Office Supplies
@@ -91,7 +100,7 @@ The dataset includes three key areas:
 
 ### 🔹 Shipping Mode Distribution
 
-* Standard Class (Highest share)
+* Standard Class (highest share)
 * Second Class
 * First Class
 * Same Day
@@ -117,7 +126,7 @@ The dashboard includes slicers for:
 * State
 * Customer Segment
 
-These allow dynamic filtering for better analysis.
+These enable dynamic filtering and deeper insights.
 
 ---
 
@@ -126,7 +135,7 @@ These allow dynamic filtering for better analysis.
 * Technology and Office Supplies drive consistent sales
 * Standard Class dominates shipping usage
 * California has the highest number of orders
-* Certain sub-categories contribute significantly to revenue
+* Some sub-categories contribute significantly to revenue
 * Shipping time varies across regions and delivery modes
 
 ---
@@ -134,16 +143,18 @@ These allow dynamic filtering for better analysis.
 ## 🚀 How to Use
 
 1. Download the Excel file
-2. Open using Microsoft Excel (2016 or later recommended)
+2. Open in Microsoft Excel (2016 or later recommended)
 3. Use slicers to interact with the dashboard
-4. Analyze trends and insights
+4. Explore trends and insights
 
 ---
 
 ## 📂 Project Structure
 
-Sales-Performance-Excel-Dashboard/
+sales-performance-excel-dashboard/
 │
+├── images/
+│   └── dashboard.png
 ├── Sales report(Project).xlsx
 ├── README.md
 
@@ -152,9 +163,9 @@ Sales-Performance-Excel-Dashboard/
 ## 💡 Future Improvements
 
 * Add Profit & Discount analysis
-* Create forecasting models
-* Build Power BI version
-* Automate data updates
+* Build forecasting models
+* Create Power BI version
+* Automate data refresh
 
 ---
 
@@ -172,4 +183,4 @@ Aspiring Data Analyst skilled in:
 
 ## ⭐ Support
 
-If you found this project useful, feel free to ⭐ the repository!
+If you found this project useful, consider giving it a ⭐ on GitHub!
